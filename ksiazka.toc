@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Liczby zespolone}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Wst\IeC {\k e}p}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Definicja}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Postacie zapisu}{2}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}Zadania:}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Macierze}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Wst\IeC {\k e}p}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Definicja}{4}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Wzory}{4}{subsection.2.2}
+\contentsline {section}{Bibliografia}{5}{section*.2}
